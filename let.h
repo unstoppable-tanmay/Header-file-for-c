@@ -1,3 +1,5 @@
+// this the header file to print the 2d and big letter and by any font you want (and for more information read the text file given)
+
 #include <string.h>
 #include <stdio.h>
 
